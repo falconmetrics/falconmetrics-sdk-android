@@ -18,7 +18,7 @@ Add the FalconMetrics SDK to your app's build.gradle file:
 
 ```gradle
 dependencies {
-    implementation 'io.falconmetrics:falconmetrics:0..0'5
+    implementation 'io.falconmetrics:falconmetrics:0.5.0'
 }
 ```
 
